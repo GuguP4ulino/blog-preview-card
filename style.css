@@ -35,6 +35,7 @@ body {
     background-color: var(--yellow);
     margin: 0;
     height: 100vh;
+    overflow-y: hidden;
 }
 
 article {
